@@ -1,0 +1,19 @@
+[12:25:18] bridge.lua up (vbridge-1), root=/home/mrjohn/Work/tries/2026-10-01-nimble-som-test
+[12:25:26] ok   build
+[12:25:26] ok   play
+[12:25:28] ok   build
+[12:26:18] ok   ping
+[12:27:16] ok   build
+[12:27:16] ok   play
+[12:41:25] bridge.lua up (vbridge-1), root=/home/mrjohn/Work/tries/2026-10-01-nimble-som-test
+[12:53:48] bridge.lua up (vbridge-1), root=/home/mrjohn/Work/tries/2026-10-01-nimble-som-test
+[12:56:52] bridge.lua up (vbridge-1), root=/home/mrjohn/Work/tries/2026-10-01-nimble-som-test
+[12:57:34] ok   build
+[12:57:34] ok   play
+[12:59:26] bridge.lua up (vbridge-1), root=/home/mrjohn/Work/tries/2026-10-01-nimble-som-test
+[13:00:19] ok   build
+[13:00:19] ok   play
+[13:01:27] ok   play
+[13:01:29] ok   stop
+[13:03:25] ok   build
+[13:03:26] ok   play

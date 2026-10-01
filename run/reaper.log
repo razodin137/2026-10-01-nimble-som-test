@@ -1,0 +1,16 @@
+reaper: activating running instance...done
+reaper: opening project 'media:/home/mrjohn/Work/tries/2026-10-01-nimble-som-test/bridge.lua' with flags 0... done
+
+(reaper:229708): Gdk-CRITICAL **: 12:23:45.921: gdk_window_get_display: assertion 'GDK_IS_WINDOW (window)' failed
+
+(reaper:229708): Gdk-CRITICAL **: 12:23:45.921: gdk_selection_send_notify_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+jack: created client
+jack: setting TIME_CRITICAL = 57
+jack: activated client
+jack: deactivated client
+jack: close client
+jack: created client
+jack: setting TIME_CRITICAL = 57
+jack: activated client
+jack: deactivated client
+jack: close client
