@@ -1,0 +1,15 @@
+# generated per-idea audio/MIDI renders
+render/*
+!render/.gitkeep
+
+# generated stem audio (stems.py)
+audio/*
+!audio/.gitkeep
+
+# REAPER bridge runtime state, commands, logs (start.sh recreates run/cmd)
+run/*
+
+# python
+__pycache__/
+*.pyc
+.venv/
