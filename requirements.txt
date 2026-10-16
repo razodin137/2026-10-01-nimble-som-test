@@ -1,0 +1,4 @@
+# Python 3.14. Direct deps only; transformers/numpy/etc. arrive with laya.
+# CPU torch is sufficient - no GPU wheel needed.
+laya==0.3.22
+torch==2.14.1
